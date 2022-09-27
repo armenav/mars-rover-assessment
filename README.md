@@ -61,3 +61,19 @@ See `input.txt` in this repo for a sample test input.
 - Be prepared to give a brief overview on your design decisions.
 
 - **Don't hesitate to ask us for clarifications**
+
+## How to run the program
+This program requires python 3.6 and above
+
+To run the application in interactive mode run
+```
+python3 app.py 
+```
+To read data from the file run
+```
+python3 app.py input.txt
+```
+To run tests run
+```
+python3 tests.py
+```
